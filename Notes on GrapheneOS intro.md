@@ -5,6 +5,7 @@ Enhancements to be covered:
 - Kernel hardening (the linux-hardened project)
 - hardened_malloc
 - Sandboxed Google Play Services
+
 The rest of the features may also be covered, but focus is given to these features due to the many misconceptions about their effect on security and how they are valuable.
 
 Note: This blog mainly focuses on security at the moment, but GrapheneOS is also a privacy focused project, adding many features such as the network/sensors permissions, as well as MAC randomization.
